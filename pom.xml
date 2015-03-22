@@ -70,7 +70,6 @@
 				<version>1.8</version>
 				<configuration>
 					<verbose>false</verbose>
-					<addSvnKeyWords>true</addSvnKeyWords>
 				</configuration>
 				<executions>
 					<execution>
